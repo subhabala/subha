@@ -1,5 +1,4 @@
 # exclude target directory
 /target
 /reports
-/src
 /catalog
